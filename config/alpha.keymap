@@ -32,7 +32,7 @@
             bindings = <
                 &kp F1      &kp F2      &kp F3      &kp F4      &kp F5      &kp F6      &kp F7      &kp F8      &kp F9      &kp F10
                 &kp F11     &kp F12     &kp TILDE   &kp GRAVE   &trans      &trans      &trans      &kp LT      &kp GT      &kp FSLH
-                &bt BT_CLR  &bt BT_NXT  &bt BT_PRV  &trans                  &trans                  &kp QMARK   &trans      &kp ENTER
+                &bt BT_CLR  &bt BT_NXT  &bt BT_PRV  &trans                  &trans                  &kp QMARK   &bootloader &kp ENTER
             >;
         };
     };
